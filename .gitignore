@@ -1,3 +1,5 @@
+CppProperties.json
+*.exe
 *.sln
 *.vcxproj
 *.vcxproj.filters
